@@ -2,9 +2,8 @@
   "name": "cx-miner-backend",
   "version": "1.0.0",
   "description": "Backend for CX Miner game",
-  "main": "api/verify.js",
   "scripts": {
-    "start": "vercel dev"
+    "dev": "vercel dev"
   },
   "dependencies": {},
   "devDependencies": {
